@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+$defaultColor:#000;
+$larger_size:16px !default;
+$normal_size:14px;
+$small_size:13px;
+$middle_size:18px;
+$m_slider_bg:#30A9BB;
+$border-color:#d1d6da;
+
+//换肤
+$green:#0688BC;
+$blue:#30aabc;
+$orange:#F6993F;
+$popular:#8978F1;
+$pink:#F69191;
+
+
+@mixin cell-right {
+  padding-right: 15px;
+  text-align: right;
+}
+
+@mixin box-sizing{
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+@mixin rounded-corners{
+  border-radius:0 2px 2px 0;
+  -webkit-border-radius: 0 2px 2px 0;
+  -moz-border-radius: 0 2px 2px 0;
+}
+
+@mixin mbox-shadow-slider{
+  -webkit-box-shadow: 1px 2px 3px 0 rgba(51,51,51,0.66);
+  -moz-box-shadow: 1px 2px 3px 0 rgba(51,51,51,0.66);
+  box-shadow:1px 2px 3px 0 rgba(51,51,51,0.66);
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="导航展开样式" transform="translate(-24.000000, -390.000000)" stroke="#FFFFFF">
+            <g id="侧导航">
+                <g id="Group-5" transform="translate(25.000000, 391.000000)">
+                    <circle id="Oval" cx="12.4548611" cy="11.3923611" r="4.54513889"></circle>
+                    <path d="M13.230372,5.70701209 C13.3023401,5.38037648 13.3402778,5.04097282 13.3402778,4.69270833 C13.3402778,2.10099709 11.2392807,0 8.64756944,0 C6.0558582,0 3.95486111,2.10099709 3.95486111,4.69270833 C3.95486111,6.73654954 5.26147275,8.47521524 7.08495665,9.11896606" id="Oval"></path>
+                    <path d="M3.31484191,6.96527778 C1.39551226,7.5539318 0,9.34022007 0,11.4524477 C0,14.0441589 2.10099709,16.145156 4.69270833,16.145156 C5.8700832,16.145156 6.94618712,15.7115635 7.77005148,14.9953472" id="Oval"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

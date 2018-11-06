@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="14px" viewBox="0 0 19 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="导航展开样式" transform="translate(-24.000000, -132.000000)" stroke="#FFFFFF">
+            <g id="侧导航">
+                <g id="Group-7" transform="translate(24.000000, 132.000000)">
+                    <polyline id="Line" stroke-linecap="square" points="0.0322033898 13.2355932 4.22443061 13.2355932 6.30431674 13.2355932 7.84479608 13.2355932 9.82127913 13.2355932 18.9677966 13.2355932"></polyline>
+                    <path d="M2.18983051,11.4152542 L16.8745763,11.4152542 C17.1319971,11.4152542 17.340678,11.2065734 17.340678,10.9491525 L17.340678,0.966101695 C17.340678,0.708680837 17.1319971,0.5 16.8745763,0.5 L2.18983051,0.5 C1.93240965,0.5 1.72372881,0.708680837 1.72372881,0.966101695 L1.72372881,10.9491525 C1.72372881,11.2065734 1.93240965,11.4152542 2.18983051,11.4152542 Z M10.4199351,11.4152542 L10.4199351,12.4152542 L8.02807865,12.4152542 L8.02807865,11.4152542 L10.4199351,11.4152542 Z M10.4199351,12.4152542 L8.02807865,12.4152542 L8.02807865,11.4152542 L10.4199351,11.4152542 L10.4199351,12.4152542 Z" id="Rectangle-2"></path>
+                    <rect id="Rectangle-3" x="4.81525424" y="6.74745763" width="1" height="2.60677966" rx="0.5"></rect>
+                    <rect id="Rectangle-3-Copy" x="8.7440678" y="4.6220339" width="1" height="4.73220339" rx="0.5"></rect>
+                    <rect id="Rectangle-3-Copy-2" x="12.6084746" y="2.56101695" width="1" height="6.79322034" rx="0.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

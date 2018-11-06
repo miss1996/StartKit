@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="17px" viewBox="0 0 19 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="导航展开样式" transform="translate(-24.000000, -502.000000)" stroke="#FFFFFF">
+            <g id="侧导航">
+                <g id="Group-10" transform="translate(24.000000, 503.000000)">
+                    <circle id="Oval-2" cx="9.5" cy="3.86785714" r="3.86785714"></circle>
+                    <path d="M15.2263212,15.4168282 C15.310968,15.0186215 15.355506,14.6055834 15.355506,14.1821429 C15.355506,10.9185673 12.7098553,8.27291667 9.44627976,8.27291667 C6.18270425,8.27291667 3.53705357,10.9185673 3.53705357,14.1821429 C3.53705357,14.5700325 3.57442689,14.9491932 3.64576902,15.3162204" id="Oval-2-Copy"></path>
+                    <g id="Group-8" transform="translate(8.694196, 2.363690)" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M4.75424107,6.12410714 C6.460201,6.12410714 7.84315476,4.75317906 7.84315476,3.06205357 C7.84315476,1.51802678 6.69032375,0.240916728 5.19137904,0.0304258045" id="Oval-2"></path>
+                        <path d="M9.29828105,11.8184524 C9.36561377,11.5010455 9.40104167,11.1718167 9.40104167,10.8342962 C9.40104167,8.23293062 7.29654681,6.12410714 4.70052083,6.12410714" id="Oval-2-Copy"></path>
+                    </g>
+                    <g id="Group-8" transform="translate(5.305804, 8.363690) scale(-1, 1) translate(-5.305804, -8.363690) translate(0.305804, 2.363690)" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M4.75424107,6.12410714 C6.460201,6.12410714 7.84315476,4.75317906 7.84315476,3.06205357 C7.84315476,1.51802678 6.69032375,0.240916728 5.19137904,0.0304258045" id="Oval-2"></path>
+                        <path d="M9.29828105,11.8184524 C9.36561377,11.5010455 9.40104167,11.1718167 9.40104167,10.8342962 C9.40104167,8.23293062 7.29654681,6.12410714 4.70052083,6.12410714" id="Oval-2-Copy"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

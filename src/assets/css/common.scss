@@ -1,0 +1,21 @@
+div,p,li,span,h1,h2,h3,h4,h5,h6{
+  font-family:MicrosoftYaHei;
+}
+.nav-title{
+  font-size:14px;
+  color:rgba(51,51,51,1);
+  line-height:22px;
+  letter-spacing:1px;
+  .before{
+    color:rgba(24,144,255,1);
+  }
+  .next{
+    margin:0 8px;
+  }
+}
+/*element-ui*/
+.el-radio-button__orig-radio:checked+.el-radio-button__inner{
+  color: #1890FF;
+  background-color: #fff;
+  border-color: #1890FF;
+}
